@@ -1,1 +1,3 @@
-# mob-android-timer
+# ANDROID TIMER APP
+
+an android timer app. 
