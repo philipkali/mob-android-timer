@@ -1,3 +1,3 @@
 # ANDROID TIMER APP
 
-an android timer app. 
+an android timer app that counts down time. 
